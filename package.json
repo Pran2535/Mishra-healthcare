@@ -1,5 +1,5 @@
 {
-  "name": "carepulse",
+  "name": "Mishra clinic",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
-    "@next/swc-win32-x64-msvc": "^14.2.5",
     "@radix-ui/react-alert-dialog": "^1.0.5",
     "@radix-ui/react-checkbox": "^1.0.4",
     "@radix-ui/react-dialog": "^1.0.5",
